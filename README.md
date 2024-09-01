@@ -16,7 +16,7 @@ The optimal period for forming a habit is 66 days. Let's use these 66 days to bu
 
 
 <br>
-
+ 
 
 ![screenshot](./imgs/smokingdiary-home.png)
 
